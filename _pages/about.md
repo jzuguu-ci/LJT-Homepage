@@ -14,6 +14,14 @@ GitHub: https://github.com/Vicent0205
 Google Scholar: https://scholar.google.com/citations?hl=en&user=tbK9jl4AAAAJ&view_op=list_works&sortby=pubdate  
 X (Twitter): https://x.com/junteng88716710
 
+Featured publications
+======
+Here are a few representative works. You can see the full list on the Publications page.
+
+- SynLogic: Synthesizing Verifiable Reasoning Data at Scale for Learning Logical Reasoning and Beyond (2025), first author.
+- On the Perception Bottleneck of VLMs for Chart Understanding (2025), first author.
+- On the Universal Truthfulness Hyperplane Inside LLMs (EMNLP 2024), first author.
+
 Education
 ======
 - Ph.D. in Computer Science, Hong Kong University of Science and Technology (2024–Present)
